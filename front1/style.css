@@ -9,7 +9,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 
 }
 
-	.article1 {width: 85%; margin: 10% auto; background: #eee; border-radius: 5px; box-shadow: 2px 3px 3px #222, -2px 3px 10px #222;}
+	.article1 {width: 85%; margin: 10% auto; background: #fff; border-radius: 5px; box-shadow: 2px 3px 3px #222, -2px 3px 10px #222;}
 
 	.article1__div:last-child {padding-bottom: 20px;}
 	
